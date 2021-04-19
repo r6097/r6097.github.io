@@ -32,7 +32,7 @@
 /* main content */
 body {
     background: url("images/bg.png");
-    background-color: 0f1c70;
+    background-color: #0f1c70;
     background-repeat: repeat-y;
     background-size: cover;
     font-family: 'Ubuntu Mono', monospace;
