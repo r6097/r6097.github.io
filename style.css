@@ -33,7 +33,6 @@
 body {
     background: url("images/bg.png");
     background-color: black;
-    background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Ubuntu Mono', monospace;
     color: beige;
