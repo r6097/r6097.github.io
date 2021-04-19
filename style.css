@@ -31,8 +31,12 @@
 
 /* main content */
 body {
-    background: rgb(7, 126, 156);
+    background: url("images/bg.png");
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
     font-family: 'Ubuntu Mono', monospace;
+    color: beige;
     text-align: center;
 }
 
@@ -67,4 +71,5 @@ body {
 
 .card-text {
     text-align: left;
+    color: black;
 }
